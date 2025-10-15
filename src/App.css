@@ -1,0 +1,20 @@
+.header{
+  margin: 40px auto;
+  border: 1px solid grey;
+  max-width: 700px;
+  padding: 40px;
+  line-height: 1.2;
+  font-family: cursive;
+}
+
+hr{
+    border: 1px solid rgb(18, 13, 13); 
+}
+
+h3{
+    color: green;
+}
+
+p1{
+    color: rgb(59, 228, 12)
+}
